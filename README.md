@@ -5,8 +5,9 @@ This repository contains the Power BI project file (.pbix) and the dataset used 
 
 Key features of the dashboard include:
 
-Sales breakdown by segment and market
-Profit analysis by customer name
-Top 5 profit and loss insights by product
-Key performance indicators tracking total orders, returns, product units sold, and sales projections
+1. Sales breakdown by segment and market
+2. Profit analysis by customer name
+3. Top 5 profit and loss insights by product
+4. Key performance indicators tracking total orders, returns, product units sold, and sales projections.
+   
 Feel free to explore the dashboard and dataset. Let's connect to discuss how these insights can benefit your business!
